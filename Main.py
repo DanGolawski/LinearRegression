@@ -25,3 +25,5 @@ err_calc = Err.ErrorCalculator()
 
 print('Root Mean Squared Error = ' + str(err_calc.calculate_root_mean_squared_error(x_values, y_values, b0, b1)))
 
+print('R^2 Score = ' + str(err_calc.calculate_R_squared(x_values, y_values, b0, b1)))
+
