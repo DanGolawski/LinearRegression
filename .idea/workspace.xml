@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abe40645-6c00-4c0e-9f4b-753894fb5b4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/LinearRegression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LinearRegression.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visualizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Visualizer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +120,7 @@
       <updated>1569947807019</updated>
       <workItem from="1569947808327" duration="3530000" />
       <workItem from="1569951456795" duration="36000" />
-      <workItem from="1569951718174" duration="1343000" />
+      <workItem from="1569951718174" duration="2865000" />
     </task>
     <servers />
   </component>
@@ -139,6 +139,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LinearRegression$Main.coverage" NAME="Main Coverage Results" MODIFIED="1569953099364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LinearRegression$Main.coverage" NAME="Main Coverage Results" MODIFIED="1569955007259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
